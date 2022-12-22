@@ -1,0 +1,35 @@
+*/styling css*/
+body{
+    background-color:blueviolet;
+}
+nav{
+    display: flex;
+background-color: crimson;
+} 
+p{
+    font :arial;
+    font-size: 20 px;
+    font-weight:300;
+}  
+#education{
+    border :1px;
+    margin: 15px;
+    padding: 20px;
+    text-align: justify;
+}
+button{
+height: 30px;
+width: 60px;
+font-family: Arial, Helvetica, sans-serif;
+outline-color: bisque;
+
+}
+button:hover{
+    height: 30px;
+    width: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(123, 74, 15);
+    }
+ul{
+    font-size: medium;
+}
